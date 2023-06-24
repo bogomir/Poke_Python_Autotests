@@ -1,3 +1,3 @@
-# python_autotests
+# Python Autotests
 
 Автотесты на языке Python с примененинием фикстур и параметризацией
